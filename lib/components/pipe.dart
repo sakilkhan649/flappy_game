@@ -12,7 +12,7 @@ class Pipe extends SpriteComponent with HasGameRef<FlappyBirdGame> {
     required this.pipePosition,
     required this.height,
   });
-
+// Nice
   @override
   final double height;
   final PipePosition pipePosition;
